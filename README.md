@@ -35,8 +35,8 @@ A project that allows you to chat with any GitHub repository and extract informa
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/github-repo-chatbot.git
-   cd github-repo-chatbot
+   git clone https://github.com/vedant713/CodeSensei-Ask-Anything-About-Your-GitHub-Repo.git
+   cd CodeSensei-Ask-Anything-About-Your-GitHub-Repo
    ```
 
 2. **Set up the backend**:
