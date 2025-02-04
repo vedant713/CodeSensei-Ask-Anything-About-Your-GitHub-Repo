@@ -144,10 +144,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [LangChain](https://www.langchain.com/) for the retrieval-augmented generation framework.
 - [Streamlit](https://streamlit.io/) for the easy-to-use frontend framework.
 
----
 
-## Contact 📧
-
-For questions or feedback, feel free to reach out:
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
