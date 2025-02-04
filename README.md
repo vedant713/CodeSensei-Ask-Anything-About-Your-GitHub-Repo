@@ -2,9 +2,11 @@
 
 A project that allows you to chat with any GitHub repository and extract information from it using natural language. Built with **FastAPI**, **Streamlit**, **LangChain**, and **Ollama** (with DeepSeek models).
 
-![Demo](https://via.placeholder.com/800x400.png?text=Demo+Placeholder) <!-- Add a demo GIF or screenshot here -->
 
----
+
+https://github.com/user-attachments/assets/f923abfe-5564-4782-a0ae-d62214aadb44
+
+
 
 ## Features ✨
 - **Process any GitHub repository**: Fetch and index repository content (code, markdown, Jupyter notebooks, etc.).
